@@ -1,6 +1,6 @@
 AAID  :  AA123567.,,, +++
 
-Approver : sreekanth , sreekanth@gmail.com
+Approver : sreekanth , sreekanth@gmail.com, sree@gmail.com
 
 Owner  : sreekanth , sree@gmail.com
 
